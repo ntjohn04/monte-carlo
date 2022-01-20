@@ -28,28 +28,28 @@ processScroll() uses JavaFX ScrollEvent to allow the region to be rotated along 
 ## EXAMPLE BOUNDED REGIONS
 
 1)
--250 &emsp; 250
--250 &emsp; 250
+-250 &emsp; 250<br/>
+-250 &emsp; 250<br/>
 0.5*y^x*-1 &emsp; 10*y^6 / x
 
 2)
-y^2/z &emsp; y^3/(y-z^2)
--250 &emsp; 250
+y^2/z &emsp; y^3/(y-z^2)<br/>
+-250 &emsp; 250<br/>
 -250 &emsp; 250
 
 3)
--500 &emsp; 500
--500 &emsp; 500
+-500 &emsp; 500<br/>
+-500 &emsp; 500<br/>
 ln(cos(ln(x)))*-1 &emsp; ln(y)^2*15
 
 4)
--500 &emsp; asin(y/z)
--250 &emsp; 250
+-500 &emsp; asin(y/z)<br/>
+-250 &emsp; 250<br/>
 -250 &emsp; 250
 
 5)
-y-z &emsp; z-y
--250 &emsp; 250
+y-z &emsp; z-y<br/>
+-250 &emsp; 250<br/>
 -250 &emsp; 250
 
 ## E-MAIL
